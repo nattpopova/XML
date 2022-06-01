@@ -1,6 +1,8 @@
 <root>
-	<Favorite_film>Others</Favorite_film>
-	<Favorite_series>Game of thrones</Favorite_series>
-	<Favorite_season>Summer</Favorite_season>
-	<The_side_you_would_like_to_visit>Norway</The_side_you_would_like_to_visit>
+	<Last_name>Popova</Last_name>
+	<First_name>Nataliia</First_name>
+	<Sirname>Ivanivna</Sirname>
+	<Age>30</Age>
+	<Pets_Number>0</Pets_Number>
+	<Desired_salary>20000</Desired_salary>
 </root>
